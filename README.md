@@ -5,3 +5,7 @@ One common aspect of building web applications: processing datasets, and then ou
 This project will cover concepts like switch statements, default parameters, **Object.freeze()**, the **map()** method, and more.
 
 ![](/image/football_cards.png)
+
+## Live Demo
+
+[Live Demo](https://marvelous-otter-762ac7.netlify.app/)
